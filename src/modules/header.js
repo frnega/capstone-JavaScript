@@ -1,3 +1,5 @@
+/* eslint-disable import/prefer-default-export */
+/* eslint-disable linebreak-style */
 const userInterface = () => {
   const nav = document.createElement('div');
   nav.innerHTML = `
@@ -13,6 +15,6 @@ const userInterface = () => {
 </header>
   `;
   document.body.appendChild(nav);
-}
+};
 
-export {userInterface}
+export { userInterface };
