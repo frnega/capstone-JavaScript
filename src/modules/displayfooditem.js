@@ -1,4 +1,3 @@
-// import displayPopup from './popupWindow.js';
 import { getnumberofLikes, Interactlikebutton } from './likeitems.js';
 import itemsCounter from './itemCounter.js';
 
