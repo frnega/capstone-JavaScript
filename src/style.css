@@ -116,6 +116,11 @@ nav .nav-items .closeMenu {
     rgb(0 0 0 / 30%) 0 3px 7px -3px;
 }
 
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+
 .card-img img {
   width: 100%;
   border-radius: 20px;
@@ -286,7 +291,7 @@ nav .nav-items .closeMenu {
   color: red;
   background-color: #fff;
   padding: 6px;
-  transition: .5s;
+  transition: 0.5s;
   margin: 5px;
   cursor: pointer;
   border-radius: 5px;
@@ -294,17 +299,12 @@ nav .nav-items .closeMenu {
 
 #close:hover {
   color: white;
-  background-color: #000
+  background-color: #000;
 }
 
 .popup-image {
   background-color: white;
   padding: 10px;
-  border-radius: 20px;
-}
-
-img {
-  width: 100%;
   border-radius: 20px;
 }
 
@@ -318,7 +318,9 @@ img {
   border: 2px solid black;
 }
 
-.dish-name,.comments-counter,.add {
+.dish-name,
+.comments-counter,
+.add {
   font-family: "Courgette", cursive;
   font-size: 25px;
   text-align: center;

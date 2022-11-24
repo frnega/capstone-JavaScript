@@ -1,4 +1,3 @@
-// import displayPopup from './popupWindow.js';
 import { getnumberofLikes, Interactlikebutton } from './likeitems.js';
 import itemsCounter from './itemCounter.js';
 import modalComment from './comment.js';
@@ -26,7 +25,7 @@ const displayfoodCards = async () => {
              </div>`;
         recipeCards.innerHTML = html;
       });
-      modalComment()
+      modalComment();
       getnumberofLikes();
       Interactlikebutton();
       itemsCounter(data.meals, recipeCount);
