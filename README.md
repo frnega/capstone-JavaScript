@@ -57,13 +57,19 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [capstone: API-based webapp] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[capstone: API-based webapp]** The JavaScript capstone project is about building web application based on an external API. We selected an API that provides data about Meals and then built the webapp around it.
+
 
 ## 🛠 Built With <a name="built-with"></a>
+
+Html.
+Css.
+JS.
+Webpark.
+jest test
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -116,13 +122,12 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project Vscode. must have git installed.
 
 <!--
 Example command:
@@ -134,7 +139,9 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+Download the ZIP from this location, or run the following git command to clone the files to your machine:
 
 <!--
 Example commands:
@@ -148,6 +155,33 @@ Example commands:
 ### Install
 
 Install this project with:
+git clone  https://github.com/frnega/capstone-JavaScript
+- Once the files are on your machine,
+ open the -capstone-JavaScript_ folder in [Visual Studio Code](https://code.visualstudio.com/), 
+ and follow the steps in Installation & Set Up
+
+## 🛠 Installation & Set Up
+
+1. Install Node Modules
+
+   ```sh
+   npm install
+   
+   2. Start the development server
+
+   ```sh
+   npm run start
+3. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+
+4. Run automated functionality test
+To check for functionality with automated test run npm test
+
+## 🚀 Building and Running for Production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
 
 <!--
 Example command:
@@ -158,41 +192,6 @@ Example command:
 ```
 --->
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,19 +199,16 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frnega](https://github.com/frnega)
+
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ifeanyi305](https://github.com/ifeanyi305)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,7 +216,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
