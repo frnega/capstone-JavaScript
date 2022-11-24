@@ -155,8 +155,10 @@ Example commands:
 ### Install
 
 Install this project with:
-git clone  https://github.com/kennyegun24/capstone2.git
-- Once the files are on your machine, open the _todo-list_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+git clone  https://github.com/frnega/capstone-JavaScript
+- Once the files are on your machine,
+ open the -capstone-JavaScript_ folder in [Visual Studio Code](https://code.visualstudio.com/), 
+ and follow the steps in Installation & Set Up
 
 ## 🛠 Installation & Set Up
 
