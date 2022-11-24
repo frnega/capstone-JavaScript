@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <title>food menu seafood</title>
-
+    <title>Foodify Kitchenball</title>
+<script defer src="main.js"></script></head>
 
 <body>
     <header>
@@ -26,13 +26,32 @@
             <div class="headlinetext">
                 <h2>Get one of a kind seafood<br> recipes</h2>
             </div>
-            <div id="recipe-section" class="recipe-cards"></div>
+            <div id="recipe-section" class="recipe-cards">
+              
+            </div>
         </section>
         <section class="popup-container hidden">
-            <div class="popup-window">
-                
-                </div>
+          <div class="popup-window">
+            <div class="close-btn">
+              <i id="close" class="fa-solid fa-xmark"></i>
             </div>
+            <div class="popup-image">
+              <img src="." alt="popup-image">
+            </div>
+            <div class="item-info">
+              <h3 class="dish-name"></h3>
+              <p class="recipe"></p>
+            </div>
+            <div class="comments-container">
+              <h4 class="comments-counter"></h4>
+              <div class="comment-content">
+                <ul class="comments-generator"></ul>
+              </div>
+              <span id="comments-spinner" class="spinner"></span>
+            </div>
+            <div class="add-comment">
+            </div>
+          </div>
         </section>
     </main>
     <section id="contact">
@@ -48,7 +67,6 @@
             This Project build by <a href="https://github.com/frnega">Frehiywot Nega</a> and <a href="https://github.com/ifeanyi305">Ifeanyi Joseph Oti</a>
         </div>
     </footer>
-    <script defer src="main.js"></script></head>
 </body>
-
+  
 </html>

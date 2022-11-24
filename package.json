@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "jest —watch *.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,10 @@
   },
   "homepage": "https://github.com/frnega/capstone-JavaScript#readme",
   "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
     "babel-eslint": "^10.1.0",
+    "babel-jest": "^29.3.1",
     "css-loader": "^6.7.2",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
@@ -37,6 +41,9 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
+    "babel": "^6.23.0",
+    "jest-environment-jsdom": "^29.3.1",
     "lodash": "^4.17.21"
   }
 }
