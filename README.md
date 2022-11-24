@@ -200,15 +200,13 @@ Example command:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/frnega)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frnega](https://github.com/frnega)
+
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/ifeanyi305)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ifeanyi305](https://github.com/ifeanyi305)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
