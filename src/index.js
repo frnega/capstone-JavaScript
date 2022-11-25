@@ -6,7 +6,7 @@ import displayfoodCards from './modules/displayfooditem.js';
 
 const contactBtn = document.querySelector('#contactSection');
 const recipesSection = document.querySelector('#recipesSection');
-const tagline = document.querySelector('.tagline');
+const tagline = document.querySelector('.headlinetext');
 
 const recipes = document.querySelector('#recipe-section');
 const contact = document.querySelector('#contact');
