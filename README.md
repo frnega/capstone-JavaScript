@@ -91,11 +91,11 @@ jest test
 
  -[Live Demo  Link]( https://frnega.github.io/capstone-JavaScript/dist/index.html)
 
- ## 🚀 Lnk to pull request am prould of <a name="pull request"></a>
+ ## 🚀 Link to pull request am prould of <a name="pull request"></a>
 
  -[pull request  Link]https://github.com/frnega/capstone-JavaScript/pull/30
 
- ## 🚀 Lnk to  Kanban board <a name=" Kanban board"></a>
+ ## 🚀 Link to  Kanban board <a name=" Kanban board"></a>
 
  -[kanban board Link] https://github.com/frnega/capstone-JavaScript/projects/1
 
