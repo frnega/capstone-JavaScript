@@ -83,11 +83,13 @@ jest test
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo video<a name="live-demo"></a>
 
  -[Live Demo video Link](https://drive.google.com/file/d/1D1SUZFtcREEMpQZQGMcjbVPKgafVou0f/view?usp=sharing)
 
- -[Live Demo  Link]( https://frnega.github.io/capstone-JavaScript/)
+## 🚀 Live Demo video<a name="live-demo"></a>
+
+ -[Live Demo  Link]( https://frnega.github.io/capstone-JavaScript/dist/index.html)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
