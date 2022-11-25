@@ -56,13 +56,3 @@ const modalComment = () => {
 };
 
 export default modalComment;
-
-//           const deleteBtn = comments.querySelector('button#delete-btn');
-//           deleteBtn.addEventListener('click', () => {
-//             comments.remove();
-//           })
-//           document.body.appendChild(comments);
-//         }
-//       })
-//     })
-// }

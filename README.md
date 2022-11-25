@@ -68,35 +68,8 @@ After you're finished please remove all the comments and instructions!
 Html.
 Css.
 JS.
-Webpark.
+Webpack.
 jest test
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -127,7 +100,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project Vscode. must have git installed.
+In order to run this project Vscode 
+must have git installed.
 
 <!--
 Example command:
@@ -217,9 +191,9 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[implement some UX improvements: including transitions and/or animations]**
+- [ ] **[add Reservations popup]**
+- [ ] **[You can implement additional home pages, one page per category of items.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
