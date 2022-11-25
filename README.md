@@ -75,9 +75,9 @@ jest test
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[display seafood items menu]**
+- **[you can like the meal you like from the menu items]**
+- **[you can see recipe and comment on the menu]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,8 @@ jest test
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo video Link]( https://frnega.github.io/capstone-JavaScript/)
+ -[Live Demo Link](https://drive.google.com/file/d/1D1SUZFtcREEMpQZQGMcjbVPKgafVou0f/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +116,7 @@ Example command:
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-Download the ZIP from this location, or run the following git command to clone the files to your machine:
+Download the ZIP from this location ( https://github.com/frnega/capstone-JavaScript/ ), or run the following git command to clone the files to your machine:
 
 <!--
 Example commands:
@@ -174,12 +175,12 @@ Example command:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Frehiywot Nega**
 
 - GitHub: [@frnega](https://github.com/frnega)
 
 
-👤 **Author2**
+👤 **Ifeanyi Joseph Oti**
 
 - GitHub: [@ifeanyi305](https://github.com/ifeanyi305)
 
@@ -221,9 +222,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> 
 
-I would like to thank...
+I would like to thank  the  Meal Db for using their api https://www.themealdb.com/api.php 
+ I would like to thank Involvement API which helped us to record the different user interactions (likes, comments )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,9 +235,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[do i need new key to develop the api?]**
 
-  - [Answer_1]
+  - [you can generate new key when trying to use the Api]
 
 - **[Question_2]**
 
