@@ -60,7 +60,9 @@ After you're finished please remove all the comments and instructions!
 # 📖 [capstone: API-based webapp] <a name="about-project"></a>
 
 
-**[capstone: API-based webapp]** The JavaScript capstone project is about building web application based on an external API. We selected an API that provides data about Meals and then built the webapp around it.
+**[capstone: API-based webapp]** 
+
+The JavaScript capstone project is about building web application based on an external API. We selected an API that provides data about Meals and then built the webapp around it.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -73,8 +75,6 @@ jest test
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[display seafood items menu]**
 - **[you can like the meal you like from the menu items]**
 - **[you can see recipe and comment on the menu]**
@@ -85,10 +85,8 @@ jest test
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo video Link]( https://frnega.github.io/capstone-JavaScript/)
- -[Live Demo Link](https://drive.google.com/file/d/1D1SUZFtcREEMpQZQGMcjbVPKgafVou0f/view?usp=sharing)
+ -[Live Demo  Link]( https://frnega.github.io/capstone-JavaScript/)
+ -[Live Demo video Link](https://drive.google.com/file/d/1D1SUZFtcREEMpQZQGMcjbVPKgafVou0f/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +100,9 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project Vscode 
-must have git installed.
+must have
+git installed.
+visual studio
 
 <!--
 Example command:
@@ -237,11 +237,11 @@ I would like to thank  the  Meal Db for using their api https://www.themealdb.co
 
 - **[do i need new key to develop the api?]**
 
-  - [you can generate new key when trying to use the Api]
+  - [yes you do.you can generate new key when trying to use the Api]
 
-- **[Question_2]**
+- **[which webpack version you using]**
 
-  - [Answer_2]
+  - [version greater than 24]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
