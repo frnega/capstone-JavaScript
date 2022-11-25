@@ -83,13 +83,21 @@ jest test
 
 <!-- LIVE DEMO -->
 
-## 🚀 video Demo <a name="live-demo-video"></a>
+## 🚀 Live Demo video<a name="live-demo"></a>
 
  -[Live Demo video Link](https://drive.google.com/file/d/1D1SUZFtcREEMpQZQGMcjbVPKgafVou0f/view?usp=sharing)
 
- ## 🚀 video Demo <a name="live-demo"></a>
+## 🚀 Live Demo video<a name="live-demo"></a>
 
  -[Live Demo  Link]( https://frnega.github.io/capstone-JavaScript/dist/index.html)
+
+ ## 🚀 Link to pull request am prould of <a name="pull request"></a>
+
+ -[pull request  Link]https://github.com/frnega/capstone-JavaScript/pull/30
+
+ ## 🚀 Link to  Kanban board <a name=" Kanban board"></a>
+
+ -[kanban board Link] https://github.com/frnega/capstone-JavaScript/projects/1
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
